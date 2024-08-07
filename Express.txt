@@ -2,3 +2,4 @@ Express
 Babel
 Template View( EJS)
 dotenv
+nodemon
